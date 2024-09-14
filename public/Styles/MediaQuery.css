@@ -1,0 +1,248 @@
+@media screen and (max-width: 480px) {
+  .image {
+    width: 120px;
+    text-align: center;
+  }
+  .maindiv {
+    text-align: center;
+  }
+  .title {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  .desc {
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  .price {
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  .list {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 0, 0) !important;
+    margin-top: 40px;
+  }
+  .ButtonProductPage {
+    background-color: black;
+    color: white !important;
+    padding: 5px 50px;
+    border-radius: 5px;
+  }
+  .Animationdiv {
+    margin-left: 100px;
+    width: 50%;
+  }
+  .email {
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  .password {
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 2px;
+  }
+  .Login{
+         text-align: center;
+         font-size: 14px;
+         color:black;
+         margin-top: 10px;
+  }
+  .LoginButton{
+    margin-top: 10px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    padding: 5px 25px;
+    border-radius: 5px;
+  }
+  .DetailDescription{
+    font-size: 12px;
+  }
+  .DetailTitle{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+  }
+  .increment{
+    background-color: rgb(59, 123, 59) !important;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+  .decrement{
+    background-color: rgb(0, 0, 0) !important;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+  .delete{
+    background-color: rgb(118, 32, 32);
+    color: wheat !important;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+  .noproduct{
+    font-size: 15px !important;
+  }
+  .cartTotal{
+    background-color: rgb(37, 170, 222) !important;
+    color: white !important;
+    padding: 3px 5px !important;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  .tQuantity{
+    font-size: 15px;
+  }
+  .tPrice{
+    font-size: 15px;
+  }
+  .contact{
+    font-size: 17px;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+  }
+  .map{
+    width: 80%;
+    margin-top: 30px;
+    border-radius: 5px;
+    height: 350px;
+  }
+  .typewriter{
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+  }
+}
+@media screen and (min-width: 480px) {
+  .image {
+    width: 180px;
+    text-align: center;
+  }
+  .maindiv {
+    text-align: center;
+  }
+  .ButtonProductPage {
+    background-color: black;
+    color: white !important;
+    padding: 5px 30px;
+    border-radius: 5px;
+  }
+  .list {
+    text-align: center;
+    font-size: 25px;
+    color: black !important;
+    margin-top: 40px;
+  }
+  .price {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  }
+  .Animationdiv {
+    margin-left: 100px;
+    width: 50%;
+  }
+  .email {
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 50%;
+  }
+  .password {
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 50%;
+  }
+   .Login{
+    text-align: center;
+    font-size: 17px;
+    color:black;
+    /* margin-top: 10px; */
+}
+.LoginButton{
+    margin-top: 10px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    padding: 5px 30px;
+    border-radius: 3px;
+  }
+  .DetailTitle{
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+  }
+  .DetailDescription{
+    font-size: 15px;
+    color: rgb(99, 99, 107);
+  }
+  .increment{
+    background-color: rgb(59, 123, 59) !important;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 5px;
+  }
+  .decrement{
+    background-color: rgb(0, 0, 0) !important;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 5px;
+  }
+  .delete{
+    background-color: rgb(118, 32, 32);
+    color: wheat !important;
+    padding: 3px 10px;
+    border-radius: 5px;
+  }
+  .noproduct{
+    font-size: 30px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .cartTotal{
+    background-color: rgb(37, 170, 222) !important;
+    color: white !important;
+    padding: 5px 10px !important;
+    border-radius: 10px;
+  }
+  .tQuantity{
+    font-size: 20px;
+  }
+  .tPrice{
+    font-size: 20px;
+  }
+  .contact{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .map{
+    width: 100%;
+    height: 400px;
+    /* margin-top: 30px; */
+    border-radius: 5px;
+  }
+  .typewriter{
+    font-size: 40px;
+    margin-left: 220px;
+    font-weight: bolder;
+  }
+}
+.loginButton {
+  padding: 2px 12px;
+  border-radius: 5px;
+  background-color: rgb(0, 0, 0);
+  color: white !important;
+  font-weight: 300;
+}
+
